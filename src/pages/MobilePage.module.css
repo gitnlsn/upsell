@@ -1,0 +1,14 @@
+.badgesHeroSpacing {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
