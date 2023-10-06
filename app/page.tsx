@@ -1,7 +1,7 @@
 "use client";
 
-import { MobilePage } from "@/src/pages/MobilePage";
-import { DesktopPage } from "@/src/pages/DesktopPage";
+import { MobilePage } from "@/src/contents/MobilePage";
+import { DesktopPage } from "@/src/contents/DesktopPage";
 import { useMediaQuery } from "@chakra-ui/react";
 
 export default function Home() {
